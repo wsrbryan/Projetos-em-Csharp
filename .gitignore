@@ -16,7 +16,8 @@ FodyWeavers
 *.cab
 *.msi
 *.mix
-*.msn*.msp
+*.msn
+*.msp
 
 # JetBrains Rider
 *.sln.iml
