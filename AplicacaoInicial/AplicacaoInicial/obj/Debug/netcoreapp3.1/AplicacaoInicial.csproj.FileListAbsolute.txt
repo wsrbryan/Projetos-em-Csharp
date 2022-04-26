@@ -1,0 +1,14 @@
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.exe
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.deps.json
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.runtimeconfig.json
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.runtimeconfig.dev.json
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.dll
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\bin\Debug\netcoreapp3.1\AplicacaoInicial.pdb
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.AssemblyInfoInputs.cache
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.AssemblyInfo.cs
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.csproj.CoreCompileInputs.cache
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.dll
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.pdb
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.genruntimeconfig.cache
+C:\Bryan\AplicacaoInicial\AplicacaoInicial\obj\Debug\netcoreapp3.1\AplicacaoInicial.csproj.AssemblyReference.cache
